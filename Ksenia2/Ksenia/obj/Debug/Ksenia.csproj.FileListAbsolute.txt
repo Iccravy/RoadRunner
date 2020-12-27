@@ -1,0 +1,10 @@
+C:\Users\stalk\source\repos\Ksenia\Ksenia\bin\Debug\Ksenia.exe.config
+C:\Users\stalk\source\repos\Ksenia\Ksenia\bin\Debug\Ksenia.exe
+C:\Users\stalk\source\repos\Ksenia\Ksenia\bin\Debug\Ksenia.pdb
+C:\Users\stalk\source\repos\Ksenia\Ksenia\obj\Debug\Ksenia.csprojAssemblyReference.cache
+C:\Users\stalk\source\repos\Ksenia\Ksenia\obj\Debug\Ksenia.Form1.resources
+C:\Users\stalk\source\repos\Ksenia\Ksenia\obj\Debug\Ksenia.Properties.Resources.resources
+C:\Users\stalk\source\repos\Ksenia\Ksenia\obj\Debug\Ksenia.csproj.GenerateResource.cache
+C:\Users\stalk\source\repos\Ksenia\Ksenia\obj\Debug\Ksenia.csproj.CoreCompileInputs.cache
+C:\Users\stalk\source\repos\Ksenia\Ksenia\obj\Debug\Ksenia.exe
+C:\Users\stalk\source\repos\Ksenia\Ksenia\obj\Debug\Ksenia.pdb
